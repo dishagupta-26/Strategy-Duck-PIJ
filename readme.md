@@ -9,18 +9,18 @@ This project simulates the behavior of different types of ducks using the Strate
 - `SwimBehaviour`: Interface for swim behaviours.
 - `FlyBehaviour`: Interface for fly behaviours.
 
-### QuackBehavior Implementations
-- `Quack`: Implements `QuackBehavior`, represents quacking.
-- `Squeak`: Implements `QuackBehavior`, represents squeaking.
-- `MuteQuack`: Implements `QuackBehavior`, represents silence.
+### QuackBehaviour Implementations
+- `Quack`: Implements `QuackBehaviour`, represents quacking.
+- `Squeak`: Implements `QuackBehaviour`, represents squeaking.
+- `MuteQuack`: Implements `QuackBehaviour`, represents silence.
 
-### SwimBehavior Implementations
-- `Swim`: Implements `SwimBehavior`, represents swimming.
-- `Float`: Implements `SwimBehavior`, represents floating.
+### SwimBehaviour Implementations
+- `Swim`: Implements `SwimBehaviour`, represents swimming.
+- `Float`: Implements `SwimBehaviour`, represents floating.
 
-### FlyBehavior Implementations
-- `FlyWithWings`: Implements `FlyBehavior`, represents flying.
-- `FlyNoWay`: Implements `FlyBehavior`, represents not flying.
+### FlyBehaviour Implementations
+- `FlyWithWings`: Implements `FlyBehaviour`, represents flying.
+- `FlyNoWay`: Implements `FlyBehaviour`, represents not flying.
 
 ### Duck Classes
 - `Duck`: Abstract class representing a duck.
