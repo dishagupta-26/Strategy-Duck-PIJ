@@ -19,4 +19,16 @@ public abstract class Duck {
         this.flyBehaviour = flyBehaviour;
     }
 
+    // calling the behaviours
+    public void performQuack() {
+        quackBehaviour.quack();
+    }
+
+    public void performSwim() {
+        swimBehaviour.swim();
+    }
+
+    public void performFly() {
+        flyBehaviour.fly();
+    }
 }
