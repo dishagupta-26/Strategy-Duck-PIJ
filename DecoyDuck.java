@@ -1,4 +1,4 @@
-//DEcoy Duck extends Duck
+// Decoy Duck extends Duck
 public class DecoyDuck extends Duck {
     public DecoyDuck() {
 
