@@ -8,4 +8,8 @@ public class RubberDuck extends Duck {
         flyBehaviour = new FlyNoWay();
     }
 
+    @Override
+    public void display() {
+        System.out.println("I am a Rubber Duck!");
+    }
 }
