@@ -1,6 +1,6 @@
-# Duck Behavior Simulation
+# Duck Behaviour Simulation
 
-This project simulates the behavior of different types of ducks using the Strategy design pattern.
+This project simulates the behaviour of different types of ducks using the Strategy design pattern.
 
 ## Classes
 
